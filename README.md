@@ -68,3 +68,7 @@ Missing or incomplete PANs (if applicable)
 Python / SQL (can be used for validation logic)
 
 Pandas / Regex (for data cleaning & validation)
+
+📜 License
+
+This project is licensed under the MIT License – feel free to use and modify.
